@@ -4,7 +4,7 @@ from typing import Iterable, NamedTuple, Optional, Literal
 
 import plotly.graph_objects as go
 
-from nettools.vector import Vector
+from vector import Vector
 
 
 class VectorTraces(NamedTuple):

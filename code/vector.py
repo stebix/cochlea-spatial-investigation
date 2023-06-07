@@ -7,7 +7,7 @@ import numpy as np
 
 from typing import Optional, Literal
 
-from nettools.vectortools import compute_vector_coordinates, extract_shape
+from vectortools import compute_vector_coordinates, extract_shape
 
 
 @dataclasses.dataclass
