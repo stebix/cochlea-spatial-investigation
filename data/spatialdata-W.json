@@ -1,0 +1,1573 @@
+{
+    "F01_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    67,
+                    24,
+                    143
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -8.68,
+                    -86.46,
+                    -53.9
+                ],
+                "shape": [
+                    144,
+                    174,
+                    196
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    50,
+                    70,
+                    105
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -10.44,
+                    -81.81,
+                    -57.64
+                ],
+                "shape": [
+                    144,
+                    174,
+                    196
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    44,
+                    79,
+                    131
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -11.13,
+                    -80.87,
+                    -55.05
+                ],
+                "shape": [
+                    144,
+                    174,
+                    196
+                ]
+            }
+        ]
+    ],
+    "F02_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    50,
+                    32,
+                    164
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -1.35,
+                    -68.31,
+                    -31.6
+                ],
+                "shape": [
+                    200,
+                    147,
+                    194
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    92,
+                    45,
+                    113
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    3.0,
+                    -66.78,
+                    -36.43
+                ],
+                "shape": [
+                    200,
+                    147,
+                    194
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    71,
+                    41,
+                    95
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    0.82,
+                    -67.26,
+                    -38.21
+                ],
+                "shape": [
+                    200,
+                    147,
+                    194
+                ]
+            }
+        ]
+    ],
+    "F03_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    105,
+                    120,
+                    20
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -15.38,
+                    -77.28,
+                    -20.47
+                ],
+                "shape": [
+                    174,
+                    179,
+                    202
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    70,
+                    114,
+                    83
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -18.93,
+                    -77.93,
+                    -14.33
+                ],
+                "shape": [
+                    174,
+                    179,
+                    202
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    83,
+                    136,
+                    89
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -17.6,
+                    -75.51,
+                    -13.64
+                ],
+                "shape": [
+                    174,
+                    179,
+                    202
+                ]
+            }
+        ]
+    ],
+    "F04_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    15,
+                    35,
+                    107
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -20.26,
+                    -85.76,
+                    -51.76
+                ],
+                "shape": [
+                    171,
+                    165,
+                    170
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    62,
+                    56,
+                    71
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -15.41,
+                    -83.62,
+                    -55.29
+                ],
+                "shape": [
+                    171,
+                    165,
+                    170
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    76,
+                    33,
+                    83
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -14.07,
+                    -85.92,
+                    -54.18
+                ],
+                "shape": [
+                    171,
+                    165,
+                    170
+                ]
+            }
+        ]
+    ],
+    "F05_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    168,
+                    65,
+                    69
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    7.95,
+                    -88.82,
+                    -78.62
+                ],
+                "shape": [
+                    215,
+                    152,
+                    137
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    114,
+                    56,
+                    69
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    2.32,
+                    -89.72,
+                    -78.69
+                ],
+                "shape": [
+                    215,
+                    152,
+                    137
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    117,
+                    33,
+                    46
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    2.65,
+                    -92.11,
+                    -80.81
+                ],
+                "shape": [
+                    215,
+                    152,
+                    137
+                ]
+            }
+        ]
+    ],
+    "F06_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    148,
+                    20,
+                    123
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -1.8,
+                    -61.88,
+                    -97.75
+                ],
+                "shape": [
+                    186,
+                    136,
+                    190
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    98,
+                    41,
+                    95
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -7.02,
+                    -59.76,
+                    -100.48
+                ],
+                "shape": [
+                    186,
+                    136,
+                    190
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    85,
+                    33,
+                    121
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -8.43,
+                    -60.46,
+                    -97.9
+                ],
+                "shape": [
+                    186,
+                    136,
+                    190
+                ]
+            }
+        ]
+    ],
+    "F07_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    48,
+                    58,
+                    22
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -7.12,
+                    -59.95,
+                    -115.42
+                ],
+                "shape": [
+                    145,
+                    114,
+                    204
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    53,
+                    53,
+                    89
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -6.76,
+                    -60.46,
+                    -108.88
+                ],
+                "shape": [
+                    145,
+                    114,
+                    204
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    26,
+                    58,
+                    79
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -9.44,
+                    -60.02,
+                    -109.8
+                ],
+                "shape": [
+                    145,
+                    114,
+                    204
+                ]
+            }
+        ]
+    ],
+    "F08_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    23,
+                    74,
+                    113
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    2.69,
+                    -71.01,
+                    -85.12
+                ],
+                "shape": [
+                    171,
+                    136,
+                    156
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    73,
+                    50,
+                    79
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    7.88,
+                    -73.49,
+                    -88.58
+                ],
+                "shape": [
+                    171,
+                    136,
+                    156
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    59,
+                    64,
+                    61
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    6.46,
+                    -72.16,
+                    -90.4
+                ],
+                "shape": [
+                    171,
+                    136,
+                    156
+                ]
+            }
+        ]
+    ],
+    "F09_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    56,
+                    108,
+                    24
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -12.71,
+                    -83.11,
+                    -92.24
+                ],
+                "shape": [
+                    168,
+                    173,
+                    196
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    61,
+                    74,
+                    83
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -12.24,
+                    -86.63,
+                    -86.53
+                ],
+                "shape": [
+                    168,
+                    173,
+                    196
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    35,
+                    88,
+                    87
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -14.8,
+                    -85.25,
+                    -86.01
+                ],
+                "shape": [
+                    168,
+                    173,
+                    196
+                ]
+            }
+        ]
+    ],
+    "F10_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    105,
+                    47,
+                    36
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    3.01,
+                    -80.92,
+                    -106.91
+                ],
+                "shape": [
+                    177,
+                    161,
+                    208
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    77,
+                    55,
+                    95
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    0.21,
+                    -80.11,
+                    -101.27
+                ],
+                "shape": [
+                    177,
+                    161,
+                    208
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    98,
+                    36,
+                    99
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    2.32,
+                    -82.07,
+                    -100.8
+                ],
+                "shape": [
+                    177,
+                    161,
+                    208
+                ]
+            }
+        ]
+    ],
+    "F11_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    44,
+                    94,
+                    28
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -2.03,
+                    -72.72,
+                    -103.2
+                ],
+                "shape": [
+                    159,
+                    150,
+                    186
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    65,
+                    73,
+                    83
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    0.22,
+                    -75.02,
+                    -97.8
+                ],
+                "shape": [
+                    159,
+                    150,
+                    186
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    41,
+                    74,
+                    89
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -2.25,
+                    -74.73,
+                    -97.24
+                ],
+                "shape": [
+                    159,
+                    150,
+                    186
+                ]
+            }
+        ]
+    ],
+    "F12_CT": [
+        [
+            {
+                "coordsys": "LPS",
+                "id": 1,
+                "ijk_position": [
+                    98,
+                    53,
+                    32
+                ],
+                "label": "CochleaTop",
+                "orientation": [
+                    -1.0,
+                    -0.0,
+                    -0.0,
+                    -0.0,
+                    -1.0,
+                    -0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "xyz_position": [
+                    -3.023330166908927,
+                    68.14258224431015,
+                    -110.80204329331097
+                ],
+                "shape": [
+                    167,
+                    180,
+                    204
+                ]
+            },
+            {
+                "coordsys": "LPS",
+                "id": 2,
+                "ijk_position": [
+                    59,
+                    56,
+                    89
+                ],
+                "label": "OvalWindow",
+                "orientation": [
+                    -1.0,
+                    -0.0,
+                    -0.0,
+                    -0.0,
+                    -1.0,
+                    -0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "xyz_position": [
+                    1.0431666146861929,
+                    67.91913226180286,
+                    -105.23259755521086
+                ],
+                "shape": [
+                    167,
+                    180,
+                    204
+                ]
+            },
+            {
+                "coordsys": "LPS",
+                "id": 3,
+                "ijk_position": [
+                    79,
+                    36,
+                    101
+                ],
+                "label": "RoundWindow",
+                "orientation": [
+                    -1.0,
+                    -0.0,
+                    -0.0,
+                    -0.0,
+                    -1.0,
+                    -0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "xyz_position": [
+                    -0.9149866063017278,
+                    69.91949240657306,
+                    -104.03864947765189
+                ],
+                "shape": [
+                    167,
+                    180,
+                    204
+                ]
+            }
+        ]
+    ],
+    "F13_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    112,
+                    23,
+                    180
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -3.33,
+                    -63.62,
+                    -97.4
+                ],
+                "shape": [
+                    179,
+                    141,
+                    226
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    88,
+                    35,
+                    125
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -5.85,
+                    -62.37,
+                    -102.95
+                ],
+                "shape": [
+                    179,
+                    141,
+                    226
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    117,
+                    29,
+                    115
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -2.95,
+                    -63.09,
+                    -103.85
+                ],
+                "shape": [
+                    179,
+                    141,
+                    226
+                ]
+            }
+        ]
+    ],
+    "F14_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    94,
+                    27,
+                    172
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -4.53,
+                    -55.77,
+                    -110.12
+                ],
+                "shape": [
+                    170,
+                    135,
+                    212
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    82,
+                    36,
+                    113
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -5.77,
+                    -54.82,
+                    -115.83
+                ],
+                "shape": [
+                    170,
+                    135,
+                    212
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    109,
+                    23,
+                    109
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -2.96,
+                    -56.29,
+                    -116.29
+                ],
+                "shape": [
+                    170,
+                    135,
+                    212
+                ]
+            }
+        ]
+    ],
+    "F15_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    82,
+                    30,
+                    135
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -2.65,
+                    -87.25,
+                    -114.98
+                ],
+                "shape": [
+                    156,
+                    197,
+                    172
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    73,
+                    77,
+                    95
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -3.64,
+                    -82.46,
+                    -118.94
+                ],
+                "shape": [
+                    156,
+                    197,
+                    172
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    85,
+                    61,
+                    77
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -2.4,
+                    -84.15,
+                    -120.76
+                ],
+                "shape": [
+                    156,
+                    197,
+                    172
+                ]
+            }
+        ]
+    ],
+    "T01_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    29,
+                    73,
+                    107
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    6.09,
+                    -64.25,
+                    -192.96
+                ],
+                "shape": [
+                    188,
+                    145,
+                    166
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    80,
+                    65,
+                    87
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    11.29,
+                    -65.11,
+                    -194.91
+                ],
+                "shape": [
+                    188,
+                    145,
+                    166
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    68,
+                    77,
+                    63
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    10.11,
+                    -63.87,
+                    -197.39
+                ],
+                "shape": [
+                    188,
+                    145,
+                    166
+                ]
+            }
+        ]
+    ],
+    "T02_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    120,
+                    97,
+                    28
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    16.69,
+                    -68.37,
+                    -176.3
+                ],
+                "shape": [
+                    173,
+                    174,
+                    220
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    89,
+                    79,
+                    73
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    13.71,
+                    -70.25,
+                    -171.91
+                ],
+                "shape": [
+                    173,
+                    174,
+                    220
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    70,
+                    89,
+                    55
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    11.57,
+                    -69.21,
+                    -173.81
+                ],
+                "shape": [
+                    173,
+                    174,
+                    220
+                ]
+            }
+        ]
+    ],
+    "T03_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    62,
+                    39,
+                    182
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    8.84,
+                    -80.14,
+                    -128.63
+                ],
+                "shape": [
+                    124,
+                    165,
+                    242
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    59,
+                    61,
+                    119
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    8.42,
+                    -77.89,
+                    -134.86
+                ],
+                "shape": [
+                    124,
+                    165,
+                    242
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    44,
+                    38,
+                    119
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    6.89,
+                    -80.3,
+                    -134.89
+                ],
+                "shape": [
+                    124,
+                    165,
+                    242
+                ]
+            }
+        ]
+    ],
+    "T04_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    176,
+                    89,
+                    87
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    29.97,
+                    -51.23,
+                    -187.55
+                ],
+                "shape": [
+                    197,
+                    152,
+                    240
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    118,
+                    67,
+                    111
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    24.18,
+                    -53.51,
+                    -185.29
+                ],
+                "shape": [
+                    197,
+                    152,
+                    240
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    114,
+                    71,
+                    81
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    23.66,
+                    -53.1,
+                    -188.12
+                ],
+                "shape": [
+                    197,
+                    152,
+                    240
+                ]
+            }
+        ]
+    ],
+    "T05_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    112,
+                    80,
+                    63
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    1.0,
+                    -89.1,
+                    -94.9
+                ],
+                "shape": [
+                    185,
+                    144,
+                    251
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    109,
+                    67,
+                    119
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    0.7,
+                    -90.42,
+                    -89.24
+                ],
+                "shape": [
+                    185,
+                    144,
+                    251
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    133,
+                    62,
+                    123
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    3.28,
+                    -90.88,
+                    -88.75
+                ],
+                "shape": [
+                    185,
+                    144,
+                    251
+                ]
+            }
+        ]
+    ],
+    "T06_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    167,
+                    20,
+                    63
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    22.65,
+                    -96.1,
+                    -96.09
+                ],
+                "shape": [
+                    223,
+                    111,
+                    198
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    112,
+                    29,
+                    77
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    16.93,
+                    -95.08,
+                    -94.63
+                ],
+                "shape": [
+                    223,
+                    111,
+                    198
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    105,
+                    26,
+                    48
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    16.22,
+                    -95.51,
+                    -97.42
+                ],
+                "shape": [
+                    223,
+                    111,
+                    198
+                ]
+            }
+        ]
+    ],
+    "T07_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    161,
+                    48,
+                    67
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    31.84,
+                    -78.05,
+                    -85.47
+                ],
+                "shape": [
+                    224,
+                    155,
+                    178
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    112,
+                    52,
+                    99
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    26.83,
+                    -77.8,
+                    -82.1
+                ],
+                "shape": [
+                    224,
+                    155,
+                    178
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    100,
+                    44,
+                    71
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    25.57,
+                    -78.45,
+                    -85.01
+                ],
+                "shape": [
+                    224,
+                    155,
+                    178
+                ]
+            }
+        ]
+    ],
+    "T08_CT": [
+        [
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 1,
+                "ijk_position": [
+                    29,
+                    36,
+                    77
+                ],
+                "label": "CochleaTop",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    -4.23,
+                    -81.48,
+                    -71.05
+                ],
+                "shape": [
+                    212,
+                    155,
+                    176
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 2,
+                "ijk_position": [
+                    83,
+                    45,
+                    101
+                ],
+                "label": "OvalWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    1.44,
+                    -80.47,
+                    -68.65
+                ],
+                "shape": [
+                    212,
+                    155,
+                    176
+                ]
+            },
+            {
+                "coordsys": "NIBABEL_AFFINE",
+                "id": 3,
+                "ijk_position": [
+                    92,
+                    29,
+                    79
+                ],
+                "label": "RoundWindow",
+                "orientation": "NIBABEL_ORIENTATION",
+                "xyz_position": [
+                    2.34,
+                    -82.27,
+                    -70.75
+                ],
+                "shape": [
+                    212,
+                    155,
+                    176
+                ]
+            }
+        ]
+    ]
+}
