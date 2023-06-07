@@ -1,10 +1,9 @@
 import numpy as np
+import plotly.graph_objects as go
 
 from typing import Iterable, NamedTuple, Optional, Literal
 
-import plotly.graph_objects as go
-
-from vector import Vector
+from src.vector import Vector
 
 
 class VectorTraces(NamedTuple):
