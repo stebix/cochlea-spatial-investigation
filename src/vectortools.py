@@ -1,16 +1,10 @@
 """
-Additional tooling and utility to load and wrangle-transform
-landmark data from HDF5 files on storage towards vector representation.
+Additional tooling and utility.
 """
-import warnings
 import numpy as np
 
-from copy import deepcopy
 from typing import Iterable, Union
 from pathlib import Path
-
-from nettools.pathutils import parse_filepath, FilenameParsingError
-from nettools.loader import peek_dataset
 
 PathLike = Union[str, Path]
 
@@ -70,54 +64,6 @@ def compute_vector_coordinates(base_label: str, terminal_label: str,
     terminal = extract_IJK_position(landmarks, terminal_label)
     return (base, terminal)
 
-
-
-def create_augmented_landmarks(peek_info: dict) -> list[dict]:
-    """
-    Validate and transform the peeking information from a single dataset
-    instance to iterable of landmark dictionaries.
-
-    Checks for matching shapes and creates a list of dictionaries
-    with singular shape entry.
-    """
-    # TODO: hardcoding names is bad
-    rawshape, _ = peek_info['raw-0']
-    labelshape, _ = peek_info['label-0']
-    if rawshape != labelshape:
-        raise ValueError(f'shape mismatch: got {rawshape} for raw shape and '
-                         f'{labelshape} for label shape')
-    augmented_landmarks = []
-    for landmark in peek_info['landmarks']:
-        augmented_landmark = deepcopy(landmark)
-        augmented_landmark['shape'] = np.array(rawshape)
-        augmented_landmarks.append(augmented_landmark)
-    return augmented_landmarks
-
-
-def collect_dataset_landmarks(directory: PathLike) -> dict[str, list[dict]]:
-    """
-    Crawl a directory for dataset instances as HDF5 files and create a mapping
-    from basestem -> list of augmented landmark dictionaries.
-
-    The intention is to use the resulting dictionary for programmatic instantiation
-    of direction vectors between landmarks for many instances of the dataset.
-    """
-    directory = Path(directory)
-    dataset_landmarks = {}
-    for item in directory.iterdir():
-        try:
-            sempath = parse_filepath(item)
-        except FilenameParsingError:
-            warnings.warn(
-                f'Could not parse item: "{item}" :: item skipped'
-            )
-        
-        dataset_landmarks[sempath.basestem] = create_augmented_landmarks(
-            peek_dataset(sempath)    
-        )
-    return dataset_landmarks
-        
-        
         
 def extract_shape(landmarks: Iterable[dict]) -> np.ndarray:
     shapes = set(tuple(l['shape']) for l in landmarks)
@@ -125,7 +71,3 @@ def extract_shape(landmarks: Iterable[dict]) -> np.ndarray:
         raise ValueError(f'Expected single shape but got N={len(shapes)}')
     shape = np.array(shapes.pop())
     return shape
-
-
-
-
