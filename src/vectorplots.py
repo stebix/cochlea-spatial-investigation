@@ -1,3 +1,8 @@
+"""
+Implement 3D visualizations for vectors in IJK space.
+
+Jannik Stebani, 2023
+"""
 import numpy as np
 import plotly.graph_objects as go
 

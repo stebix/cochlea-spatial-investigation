@@ -1,5 +1,7 @@
 """
 Additional tooling and utility.
+
+Jannik Stebani, 2023
 """
 import numpy as np
 

@@ -1,6 +1,8 @@
 """
 Package enables capturing and displaying information about
 landmark orientation in IJK voxel space.
+
+Jannik Stebani, 2023
 """
 import dataclasses
 import numpy as np
